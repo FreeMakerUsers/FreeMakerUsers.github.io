@@ -18,7 +18,7 @@ title: FreeMaker
 
 lang: it_IT
 
-url: 77.108.32.13    #http://www.freemaker.it
+url: https://freemakerusers.github.io/    #http://www.freemaker.it
 
 permalink: /:year/:month/:day/:title/
 
@@ -32,7 +32,7 @@ permalink: /:year/:month/:day/:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: FreeMkaer # enter this from your disqus account
+  shortname: FreeMaker # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
