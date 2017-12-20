@@ -1,6 +1,6 @@
 # main text of home
 name: FreeMaker
-bio: Un maker, un robotico, un Roker!
+bio: Se lo puoi pensare lo puoi creare
 description: Il mio blog personale sulla programmazione e il making
 
 # if it's an external image, update below for true
@@ -52,12 +52,12 @@ github: FreeMakerUsers
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: marco@freemaker.it
+email: francesco@freemaker.it
 
 authors:
     FreeMaker:
         name: FreeMaker
-        bio: Un maker, un robotico, un Roker!
+        bio: Se lo puoi pensare lo puoi creare
         external-image: false
         picture: assets/images/profile.jpg
 #        twitter: Ludus89
